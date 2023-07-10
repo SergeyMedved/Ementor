@@ -1,0 +1,34 @@
+.main-navigation {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+
+}
+
+.main-navigation--vertical {
+    display: grid;
+    grid-template-areas:    "site-navigation"
+                            "logo";
+
+    /* вспомнить как работает grid-template-areas */
+    
+    justify-items: center;
+    justify-content: center;
+    gap:155px;
+
+    /* померить в макете фигма растояния, почему gap 155px - это растояние от
+    логотипа до навигации */
+
+}
+    
+.main-navigation__site-navigation {
+    grid-area: site-navigation;
+
+}
+
+.main-navigation__logo {
+    grid-area: logo;
+}
+
+/* поотключать поочереди свойства и посмотерть что будет */
