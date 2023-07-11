@@ -5,3 +5,7 @@ it`s my first landing page, from course on Html Academy
 10.07.2023 21:00
 
 learnin console`s commands git bash
+
+11.07.2023 22:00
+
+lernin commands push and pull
