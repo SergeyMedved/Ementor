@@ -9,3 +9,7 @@ learnin console`s commands git bash
 11.07.2023 22:00
 
 learnin commands push and pull
+
+12.07.2023 22:00
+
+practice pr in branch task1
