@@ -6,10 +6,7 @@ it`s my first landing page, from course on Html Academy
 
 learnin console`s commands git bash
 
-11.07.2023 22:00
+task1
+11.07.2023 22:00 (text1)
 
-learnin commands push and pull
-
-12.07.2023 22:00
-
-practice pr in branch task1
+pratice pr in branch text1
