@@ -8,4 +8,4 @@ learnin console`s commands git bash
 
 11.07.2023 22:00
 
-lernin commands push and pull
+learnin commands push and pull
